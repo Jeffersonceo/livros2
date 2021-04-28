@@ -1,0 +1,22 @@
+{
+    "livos": [
+      {
+        "id": 1,
+        "name": "O Alquimista",
+        "image": "/imgs/1.jpg",
+        "autor": "Paulo Coelho",
+        "edicao": 1,
+        "editora": "Paralela"
+      }
+    ],
+
+    "users": [
+      {
+        "id": 1,
+        "name": "vanessa",
+        "email": "vanessa@email.com",
+        "password": "admin"
+      }
+    ]
+  }
+  

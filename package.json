@@ -1,0 +1,23 @@
+{
+  "name": "livrosvanessa",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "4.17.1",
+    "multer": "^1.4.2",
+    "nunjucks": "3.2.2",
+    "sqlite-async": "1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
